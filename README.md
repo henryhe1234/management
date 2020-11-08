@@ -51,3 +51,9 @@ run `npm start`
 ## Log in
 
 In the login page, type `Henry` and you will log in as manager, type `Alice` and you will log in as employee
+
+## Screenshots
+!["Screenshot of Manager Mode and group page"](https://github.com/henryhe1234/management/blob/main/docs/Screen%20Shot%202020-11-08%20at%201.12.37%20PM.png?raw=true)
+!["Screenshot of Manager Mode and assign task page"](https://github.com/henryhe1234/management/blob/main/docs/Screen%20Shot%202020-11-08%20at%201.13.03%20PM.png?raw=true)
+!["Screenshot of profile page"](https://github.com/henryhe1234/management/blob/main/docs/Screen%20Shot%202020-11-08%20at%201.13.24%20PM.png?raw=true)
+!["Screenshot of employee page and view task page"](https://github.com/henryhe1234/management/blob/main/docs/Screen%20Shot%202020-11-08%20at%201.13.46%20PM.png?raw=true)
